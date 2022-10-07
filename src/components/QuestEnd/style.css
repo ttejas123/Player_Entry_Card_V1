@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
+.outlines-title {
+  /*-webkit-text-stroke: 2px black;*/
+  text-shadow:
+     3px  3px 0 #000,
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  font-family: 'Changa One', cursive;
+  
+  background: linear-gradient(180deg, #FDAF57 52.07%, #F9CB44 52.08%);
+  border: 2.64423px solid #000000;
+  box-shadow: 0.661058px 1.05769px 0px #000000, inset 0.661058px -0.661058px 0px rgba(38, 37, 24, 0.9);
+}

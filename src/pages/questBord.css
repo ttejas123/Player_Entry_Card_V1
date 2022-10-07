@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
+.style-sm-font{
+	font-family: 'Changa One', cursive;
+}
+
+.outline-title {
+   text-shadow:
+       2px 2px 0 #000,
+     -2px -2px 0 #000,  
+      2px -2px 0 #000,
+      -2px 2px 0 #000,
+       2px 2px 0 #000;
+      /*font-size: 50px;*/
+}
